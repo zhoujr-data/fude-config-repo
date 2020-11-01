@@ -1,4 +1,4 @@
 fude:
-  mesaagee: hello fude, 100
+  message: hello fude, 100
 mysql:
   url: jdbc:mysql://192.168.199.110:3306/lagou?useUnicode=true&characterEncoding=utf8
