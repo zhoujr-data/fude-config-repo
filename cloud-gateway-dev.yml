@@ -1,0 +1,6 @@
+timeRanges: 60
+maxRequestTimes: 100
+logging:
+  level:
+    # Feign日志只会对日志级别为debug的做出响应
+    com.fude.controller.UserController: debug
