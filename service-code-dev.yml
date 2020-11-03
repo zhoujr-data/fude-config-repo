@@ -1,4 +1,4 @@
 logging:
   level:
     # Feign日志只会对日志级别为debug的做出响应
-    com.lagou.edu.controller.service.ResumeServiceFeignClient: debug
+    com.fude.controller.CoderController: debug
